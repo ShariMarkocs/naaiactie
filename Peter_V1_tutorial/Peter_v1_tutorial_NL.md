@@ -32,7 +32,7 @@ De focus van het ontwerp ligt op veiligheid:
 - een goed aansluitende pasvorm
 - de mogelijkheid om filtermaterialen van uiteenlopende dikte en densiteit te gebruiken
 
-Om de verspreiding te bevorderen past het patroon van dit masker past op een A4 blad. Er is dus
+Om de verspreiding te bevorderen past het patroon van dit masker op een A4 blad. Er is dus
 geen speciaal patroonpapier nodig.
 
 Het masker werkt als een mini kussensloop: onderaan zit een opening met een omslag, net zoals
