@@ -32,7 +32,7 @@ De focus van het ontwerp ligt op veiligheid:
 - een goed aansluitende pasvorm
 - de mogelijkheid om filtermaterialen van uiteenlopende dikte en densiteit te gebruiken
 
-Om de verspreiding te bevorderen past het patroon van dit masker past op een A4 blad. Er is dus
+Om de verspreiding te bevorderen past het patroon van dit masker op een A4 blad. Er is dus
 geen speciaal patroonpapier nodig.
 
 Het masker werkt als een mini kussensloop: onderaan zit een opening met een omslag, net zoals
@@ -40,7 +40,7 @@ bij de meeste kussenslopen. In die opening kan een vervangbare filter geschoven 
 door de omslag op zijn plaats gehouden wordt. Dit garandeert dat de filter netjes op zijn plaats
 blijft tijdens het dragen.
 
-De linten zijn lang genoeg zodat het masker vlot vlot kan geknoopt en los gemaakt kan worden.
+De linten zijn lang genoeg zodat het masker vlot kan geknoopt en los gemaakt kan worden.
 Het afnemen van het masker kan daardoor gebeuren met de handen op een veilige afstand van
 het hoofd.
 
@@ -115,7 +115,7 @@ Om het productie-proces eventueel te versnellen kan INDIEN DAT ECHT NODIG IS het
 
 ## ✓ PROBEER JE NAAIMACHINE ZO STERIEL MOGELIJK TE MAKEN
 
-## ✓ WAS VERVOLGENS OPNIEUW JE HANDEN ALVORENS AAN VERDER TE WERKEN
+## ✓ WAS VERVOLGENS OPNIEUW JE HANDEN ALVORENS VERDER TE WERKEN
 
 ## ✓ DRAAG TIJDENS HET MAKEN ZELF EEN MONDMASKER
 
